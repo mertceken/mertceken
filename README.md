@@ -7,7 +7,7 @@
 <br/>
 <br/>
 
-## My Personal blog
+### My Personal blog
 [![Medium](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=fff&link=https://medium.com/@mertceken)](https://medium.com/@mertceken)&nbsp;
 
 ### Tech I use
