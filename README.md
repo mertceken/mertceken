@@ -7,6 +7,9 @@
 <br/>
 <br/>
 
+## My Personal blog
+[![Medium](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=fff&link=https://medium.com/@mertceken)](https://medium.com/@mertceken)&nbsp;
+
 ### Tech I use
 <img align="left" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png" width="25" height="25">
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" width="25" height="25">
