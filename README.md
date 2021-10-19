@@ -3,8 +3,7 @@
 ## .NET Developer
 
 ### Reach out to me
-<img width="22" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" align="left" />
-<img width="22" src="https://unpkg.com/simple-icons@v5/icons/gmail.svg" align="left" />
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=fff&link=https://www.linkedin.com/in/mert-%C3%A7eken-196a3199/)](https://www.linkedin.com/in/mert-%C3%A7eken-196a3199/)&nbsp;
 <br/>
 <br/>
 
