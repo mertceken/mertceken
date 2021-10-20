@@ -27,3 +27,4 @@
 <img src="https://github-readme-stats.vercel.app/api?username=mertceken&show_icons=true&theme=graywhite">
 </details>
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=mertceken)
